@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: AW1490884_aplicacion_test3
+  name: aplicacion_test3
   annotations:
     github.com/project-slug: juligomez2008/AW1490884_aplicacion_test3
     appcode: AW1490884     
